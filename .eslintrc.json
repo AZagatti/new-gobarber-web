@@ -44,6 +44,7 @@
         "allowExpressions": true
       }
     ],
+    "@typescript-eslint/camelcase": "off",
     "import/extensions": [
       "error",
       "ignorePackages",
